@@ -1,1 +1,9 @@
 
+Qualily of the fastq in each experiment used for the gene network analysis
+
+
+We want to control very well every data used in the analysis, for this reason we check the quality and the MDS for each set of RNAseq data.
+
+
+Experiment of development after a pulse of blue light in differents times:
+
